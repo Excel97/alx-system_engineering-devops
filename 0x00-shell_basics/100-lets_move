@@ -1,2 +1,2 @@
 #!/bin/bash
-Mkdir [ [ :upper : ] ]* /tmp/u
+Mv [ [ :upper : ] ]* /tmp/u
