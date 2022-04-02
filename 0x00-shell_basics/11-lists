@@ -1,2 +1,3 @@
 #!/bin/bash
 11-lists
+ls -al /boot
