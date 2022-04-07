@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
 printf '%.2f\n' $NUM
-=======
-#!/bin/bash 
-echo "%.2f/n" $NUM
->>>>>>> 107af248df60843b69482850ee92c9a1f023a6b0
+
