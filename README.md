@@ -1,6 +1,6 @@
 # ALX System Engineering Devops
 ## Description
-The repo contains folders for ALX SE School projects
+The repo contains folders for ALX School projects
 
 ## Table of contents
 Directories | Description
