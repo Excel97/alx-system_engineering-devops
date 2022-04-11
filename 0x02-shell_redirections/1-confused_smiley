@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '(eÔo)'
+echo -e '"(Ôo)'\'
